@@ -13,8 +13,6 @@ Currently a senior at UC Santa Cruz pursuing a degree in Computer Science with a
 **Technologies/Frameworks:** GitHub, Unity, Godot, Vite, WebGL, Phaser 3, Three.Js, Linux Ubuntu  
 **Machine Learning Libraries:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter
 
-Feel free to make any additional changes or adjustments based on your preferences!
-
 
 <!--
 **timpt0261/timpt0261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
