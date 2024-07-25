@@ -1,10 +1,10 @@
 # About Me
 
-Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I am passionate about game development, web development, and have ambitions to learn more about the programming field. I'm on a mission to become a standout asset for any team.
+Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I am passionate about game development, and web development, and have ambitions to learn more about the programming field. I'm on a mission to become a standout asset for any team.
 
 ## Background
 
-Currently a senior at UC Santa Cruz pursuing a degree in Computer Science with a focus on Game Design, I'm setting my sights on obtaining my Master's in Computer Science. My expertise revolves around the Unity Game Engine, and I'm deeply committed to expanding my knowledge within the gaming industry.
+Currently an incoming grad student with sights on obtaining my Master's in Computer Science. My expertise revolves around the Unity Game Engine, and I'm deeply committed to expanding my knowledge within the gaming industry.
 
 ## Skills
 
