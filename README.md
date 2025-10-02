@@ -1,14 +1,14 @@
 # About Me
 
-Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I am passionate about game development, and web development, and have ambitions to learn more about the programming field. I'm on a mission to become a standout asset for any team.
-I am in the Masters program for Computer Science & Engineering at UC Santa Cruz.
+Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I am passionate about game development and web development, and have ambitions to learn more about the programming field. I'm on a mission to become a standout asset for any team.
+I recently completed my Master's program in Computer Science & Engineering at UC Santa Cruz.
 
 
 ## Skills
 
 **Programming Languages:** C, C++, Python, C#, JavaScript, TypeScript, HTML/CSS, Bash  
 **Developer Tools:** VSCode, Visual Studio, Vim, PyCharm  
-**Technologies/Frameworks:** GitHub, Unity, Godot, Vite, WebGL, Phaser 3, Three.Js, Linux Ubuntu  
+**Technologies/Frameworks:** GitHub, Playwright, Unity, Godot, Vite, WebGL, Phaser 3, Three.Js, Linux Ubuntu  
 **Machine Learning Libraries:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter
 
 
