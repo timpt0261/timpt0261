@@ -6,7 +6,7 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 **Programming Languages:** C, C++, Python, C#, JavaScript, TypeScript, HTML/CSS, Bash\
 **Game Development:** Unity, Unreal, Godot, Phaser 3\
 **Technologies/Frameworks:** GitHub, GitHub Actions,  WeblGl, Blender\
-**Machine Learning:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter\
+**Machine Learning:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter
 
 ## [Game Portfolio ](https://rchavez0215.wixsite.com/reubentchavez)
 
