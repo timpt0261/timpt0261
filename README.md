@@ -11,6 +11,7 @@ I recently completed my Master's program in Computer Science & Engineering at UC
 **Technologies/Frameworks:** GitHub, Playwright, Unity, Godot, Vite, WebGL, Phaser 3, Three.Js, Linux Ubuntu  
 **Machine Learning Libraries:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter
 
+## [Game Portfolio ](https://rchavez0215.wixsite.com/reubentchavez)
 
 <!--
 **timpt0261/timpt0261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
