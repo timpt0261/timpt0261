@@ -10,17 +10,17 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 ## [Game Portfolio ](https://rchavez0215.wixsite.com/reubentchavez)
 
-##Prototypes :
-[Computer Vision Rythm Beat Game](https://github.com/timpt0261/CV_RB_2023)
+## Prototypes :
+[Computer Vision Rythm Beat Game](https://github.com/timpt0261/CV_RB_2023)\
 [Runic Rumble](https://pinkpi.itch.io/runic-rumble)
 
 ## Currently Working on : 
-[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)
+[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)\
 [Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
 
 ## Games Published 
-[Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)
-[Do Your Chores Ben](https://timpt0261.itch.io/do-your-chores-ben)
+[Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)\
+[Do Your Chores Ben](https://timpt0261.itch.io/do-your-chores-ben)\
 [P.I.E(Puzzle Intense Experince)](https://bluewalrus.itch.io/pie-puzzle-int)
 
 ## Research 
