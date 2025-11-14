@@ -11,15 +11,17 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 ## [Game Portfolio ](https://rchavez0215.wixsite.com/reubentchavez)
 
 ## Prototypes :
-[Computer Vision Rythm Beat Game](https://github.com/timpt0261/CV_RB_2023)\
-[Runic Rumble](https://pinkpi.itch.io/runic-rumble)
+[Computer Vision Rythm Beat Game](https://rchavez0215.wixsite.com/reubentchavez/cv-rb)\
+[Runic Rumble](https://artofthecards.github.io/RoguelikeDeckbuilder)
 
 ## Currently Working on : 
-[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)\
+[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)
 
-![Alt text](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.png "Loteria Rougelike Prototype")
+![Alt text](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.pn "Loteria Rougelike Prototype")
 
 [Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
+
+![Alt text](https://github.com/timpt0261/timpt0261/blob/main/FoodEatingPrototype.mp4 "Loteria Rougelike Prototype")
 
 ## Games Published 
 [Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)\
@@ -27,7 +29,9 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 [P.I.E(Puzzle Intense Experince)](https://bluewalrus.itch.io/pie-puzzle-int)
 
 ## Research 
-[Murder Mystery LLM](https://github.com/Jazz23/murdermysteryllm)
+[Murder Mystery LLM Repo](https://github.com/Jazz23/murdermysteryllm)\
+[Research Paper](https://github.com/Jazz23/murdermysteryllm/blob/main/Master_s_Project_Report.pdf)
+![Alt text](https://github.com/timpt0261/timpt0261/blob/main/LLMMurderMystery.png "Murder Mystery LLM")
 <!--
 **timpt0261/timpt0261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
