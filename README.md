@@ -1,12 +1,12 @@
 # About Me
 
-Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I specialize in the Unity Game Engine and have been using it for over 5+ years. I am mainly interested in taking new programming challenges and designing fun game mechanics. With the aspiration to lead a new generation of passionate game developers.
+Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Area. I specialize in the Unity Game Engine and have been using it for over 5+ years. I am interested in taking new programming challenges and designing fun game mechanics with the aspiration to lead a new generation of passionate game developers.
 ## Skills
 
-**Programming Languages:** C, C++, Python, C#, JavaScript, TypeScript, HTML/CSS, Bash  
-**Game Development:** Unity, Unreal, Godot, Phaser 3 
-**Technologies/Frameworks:** GitHub, GitHub Actions,  WeblGl
-**Machine Learning:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter
+**Programming Languages:** C, C++, Python, C#, JavaScript, TypeScript, HTML/CSS, Bash\
+**Game Development:** Unity, Unreal, Godot, Phaser 3\
+**Technologies/Frameworks:** GitHub, GitHub Actions,  WeblGl, Blender\
+**Machine Learning:** Pandas, Numpy, SciPy, OpenCV, MediaPipe, Jupyter\
 
 ## [Game Portfolio ](https://rchavez0215.wixsite.com/reubentchavez)
 
