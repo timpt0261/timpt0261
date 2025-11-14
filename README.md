@@ -12,6 +12,7 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 ## Prototypes :
 [Computer Vision Rythm Beat Game](https://rchavez0215.wixsite.com/reubentchavez/cv-rb)\
+[![Computer Vison Rythm Beat Game](https://img.youtube.com/vi/rvNr5ELtRsU/0.jpg)](https://www.youtube.com/watch?v=rvNr5ELtRsU)
 [Runic Rumble](https://artofthecards.github.io/RoguelikeDeckbuilder)
 
 ## Currently Working on : 
