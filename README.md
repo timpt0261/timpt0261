@@ -21,7 +21,7 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 [Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
 
-![Food Eating RougeLike(August 2025)](https://github.com/timpt0261/timpt0261/blob/main/FoodEatingPrototype.mp4 "Loteria Rougelike Prototype")
+[![Food Eating Rougelike](https://img.youtube.com/vi/BDmEhV52rOI/0.jpg)](https://www.youtube.com/watch?v=BDmEhV52rOI)
 
 ## Games Published 
 [Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)\
@@ -31,7 +31,8 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 ## Research 
 [Murder Mystery LLM Repo](https://github.com/Jazz23/murdermysteryllm)\
 [Research Paper](https://github.com/Jazz23/murdermysteryllm/blob/main/Master_s_Project_Report.pdf)
-![Alt text](https://github.com/timpt0261/timpt0261/blob/main/LLMMurderMystery.png "Murder Mystery LLM")
+![Murder Mystery LLM Project](https://github.com/timpt0261/timpt0261/blob/main/LLMMurderMystery.png "Murder Mystery LLM")
+
 <!--
 **timpt0261/timpt0261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
