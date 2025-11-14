@@ -21,7 +21,7 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 [Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
 
-
+![Food Eating RougeLike(August 2025)](https://github.com/timpt0261/timpt0261/blob/main/FoodEatingPrototype.mp4 "Loteria Rougelike Prototype")
 
 ## Games Published 
 [Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)\
