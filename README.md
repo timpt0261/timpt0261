@@ -16,16 +16,16 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 [Runic Rumble](https://artofthecards.github.io/RoguelikeDeckbuilder)
 
 ## Currently Working on : 
-[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)\
+[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)
 
-![Loteria Rougue Like Image(11/14/2025)](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.png "Loteria Rougelike Prototype")\
+![Loteria Rougue Like Image(11/14/2025)](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.png "Loteria Rougelike Prototype")
 
-[Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)\
+[Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
 
 [![Food Eating Rougelike](https://img.youtube.com/vi/BDmEhV52rOI/0.jpg)](https://www.youtube.com/watch?v=BDmEhV52rOI)
 
 ## Games Published 
-[Permanence Break ](https://store.steampowered.com/app/2928200/Permanence_Break/)\
+[Permanence Break](https://store.steampowered.com/app/2928200/Permanence_Break/)\
 [Do Your Chores Ben](https://timpt0261.itch.io/do-your-chores-ben)\
 [P.I.E(Puzzle Intense Experince)](https://bluewalrus.itch.io/pie-puzzle-int)
 
