@@ -12,15 +12,15 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 ## Prototypes :
 [Computer Vision Rythm Beat Game](https://rchavez0215.wixsite.com/reubentchavez/cv-rb)\
-[![Computer Vison Rythm Beat Game](https://img.youtube.com/vi/rvNr5ELtRsU/0.jpg)](https://www.youtube.com/watch?v=rvNr5ELtRsU)
+[![Computer Vison Rythm Beat Game](https://img.youtube.com/vi/rvNr5ELtRsU/0.jpg)](https://www.youtube.com/watch?v=rvNr5ELtRsU)\
 [Runic Rumble](https://artofthecards.github.io/RoguelikeDeckbuilder)
 
 ## Currently Working on : 
-[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)
+[Loteria Rougelike](https://github.com/timpt0261/Loteria_Rougelike)\
 
-![Loteria Rougue Like Image(11/14/2025)](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.png "Loteria Rougelike Prototype")
+![Loteria Rougue Like Image(11/14/2025)](https://github.com/timpt0261/timpt0261/blob/main/LoteriaRougeLike.png "Loteria Rougelike Prototype")\
 
-[Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)
+[Food Eating Rougelike](https://github.com/timpt0261/Food-Eating-Prototype/)\
 
 [![Food Eating Rougelike](https://img.youtube.com/vi/BDmEhV52rOI/0.jpg)](https://www.youtube.com/watch?v=BDmEhV52rOI)
 
@@ -31,7 +31,7 @@ Hey there! I'm Reuben Chavez, an ambitious Game Developer located in the Bay Are
 
 ## Research 
 [Murder Mystery LLM Repo](https://github.com/Jazz23/murdermysteryllm)\
-[Research Paper](https://github.com/Jazz23/murdermysteryllm/blob/main/Master_s_Project_Report.pdf)
+[Research Paper](https://github.com/Jazz23/murdermysteryllm/blob/main/Master_s_Project_Report.pdf)\
 ![Murder Mystery LLM Project](https://github.com/timpt0261/timpt0261/blob/main/LLMMurderMystery.png "Murder Mystery LLM")
 
 <!--
